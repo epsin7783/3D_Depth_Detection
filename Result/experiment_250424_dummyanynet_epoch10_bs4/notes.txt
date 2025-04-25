@@ -1,0 +1,7 @@
+모델: DummyAnyNet
+Loss: photometric L1
+학습 데이터: KITTI Left/Right 7481쌍
+Epoch: 10
+Batch size: 4
+입력 해상도: 256 x 512
+특징: self-supervised, GT 없이 학습
